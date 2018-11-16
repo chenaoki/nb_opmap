@@ -1,4 +1,5 @@
-!*ipynb
+*ipynb
 .ipynb_checkpoints
 *.avi
 temp_mov
+*.csv
